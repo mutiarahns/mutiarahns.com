@@ -4,9 +4,9 @@
 
 ![Project Version](assets/images/version.png)
 
-> 👋🏻 Hello this is my personal website repository
+> 👋🏻 Hello, this is my personal website repository.
 
-This repository contains a personal website project to show my profile, experiences and social media. Let's connect and have some talk if you are interested! Feel free to contact me through my social media below.
+This repository contains a personal website project to show my profile, experiences, and social media. Let's connect and have a talk if you are interested! Feel free to contact me through my social media below.
 
 ---
 
@@ -27,11 +27,18 @@ This repository contains a personal website project to show my profile, experien
 
 ---
 
+## Built with
+
+- HTML
+- CSS
+
+---
+
 ## Project Preview
 
 ### Home
 
-Here is some previews of my personal website
+Here are some previews of my personal website:
 
 ![header](assets/images/preview.png)
 
