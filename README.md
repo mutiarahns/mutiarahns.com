@@ -1,46 +1,38 @@
-# Demo
+![header](assets/images/header.png)
 
-## Table Example
+# mutiarahns.com | Personal Website of Mutiara Nofitasari
+![Project Version](assets/images/version.png)
 
-| Name | Location                     |
-| ---- | ---------------------------- |
-| A    | Jakarta, Indonesia Indonesia |
-| B    | Bandung, Indonesia           |
+> 👋🏻 Hello this is my personal website repository 
 
-# Hello this is Heading One
+This repository contains a personal website project to show my profile, experiences and social media. Let's connect and have some talk if you are interested! Feel free to contact me through my social media below.
 
-This is a Markdown document with multiple paragraphs.
+---
+## Author
+**Mutiara Nofitasari**
 
-It has **bold** and _italic_ format.
+- Figma link: [mutiarahns.com's design](https://www.figma.com/design/vqtZPOvzr919OlNz2iZ8El/Mutiara-Nofitasari's-team-library?node-id=2317-520&t=ilUrAPUpmwPepi9W-1)
+- Website: [mutiarahns.com](https://www.mutiarahns.com)
+- Repository: <https://github.com/mutiarahns/mutiarahns.com>
 
-It has **bold** and _italic_ format. Not recomended though.
 
-## Author (Heading Two)
+## Social media
+- [LinkedIn](http://www.linkedin.com/in/mutiara-hikmah-nofitasari-b639b5131)
+- [Telegram](https://t.me/mutiarahns)
+- [Instagram](http://instagram.com/mutiaranofitasari)
+- [X](http://www.x.com/mutiarahns)
 
-Your Name <yourname@gmail.com>
+---
 
-Your Website <https://yourname.com>
+## Project Preview
+### Home
 
-### Links (Heading Three)
+Here is some previews of my personal website
 
-Visit my website: [YourName.com](https://yourname.com)
+![header](assets/images/preview.png)
 
-Follow my Twitter: [@yourname](https://twitter.com/yourname)
+---
 
-## Activities
-
-You can create a list:
-
-- Wake up
-- Eat breakfast
-- Running on the field
-
-Or numbered list:
-
-1. One
-2. Two
-3. Three
-
-And also embed an image:
-
-![Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+## Changelog
+- **1.0.0**
+    - Initial work
