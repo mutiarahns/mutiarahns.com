@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mutiara Nofitasari</title>
+    <meta
+      name="description"
+      content="Personal website of Mutiara Hikmah Nofitasari"
+    />
+    <link rel="icon" href="../../assets/images/logo.png" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../../index.css" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="../../index.js"></script>
+  </head>
+  <body>
+    <div class="contact-page">
+      <header class="container header">
+        <a href="/">
+          <div class="logo">
+            <img
+              class="image-logo"
+              id="logo"
+              src="../../assets/images/logo.png"
+              alt="logo"
+            />
+            <img
+              class="name-logo"
+              id="name-logo"
+              src="../../assets/images/name-logo.png"
+              alt="logo"
+            />
+          </div>
+        </a>
+
+        <nav>
+          <ul class="navigation">
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">EN | ID</a></li>
+            <li>
+              <a href="javascript:void(0);" onclick="toggleDarkModeContact()">
+                <img
+                  id="dark-mode-icon"
+                  class="display-mode"
+                  src="../../assets/icons/icon-dark-mode.png"
+                  alt="Toggle Dark Mode"
+                />
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <main class="container stack">
+        <section id="contact" class="contact form">
+          <div class="header-section">
+            <img
+              src="../../assets/icons/icon-contact.png"
+              alt="contact"
+              width="40"
+            />
+            <div class="header-section-title">
+              <h2>Contact Me</h2>
+              <p>Interested to work together? Let’s talk!</p>
+            </div>
+          </div>
+
+          <form class="contact-container">
+            <label>Full Name:</label>
+            <input type="text" placeholder="Full Name" required />
+            <label>Email:</label>
+            <input type="email" placeholder="Email" required />
+            <label>Message:</label>
+            <textarea placeholder="Message" required></textarea>
+            <button>Send</button>
+          </form>
+
+          <div class="contact-container social-media">
+            <p>Or hit me up on my social media</p>
+
+            <div class="social-media-container">
+              <a
+                href="http://www.linkedin.com/in/mutiara-hikmah-nofitasari-b639b5131"
+                target="_blank"
+              >
+                <img
+                  src="../../assets/icons/linkedin.svg"
+                  alt="github"
+                  width="40"
+                />
+              </a>
+              <a
+                href="http://www.linkedin.com/in/mutiara-hikmah-nofitasari-b639b5131"
+                target="_blank"
+              >
+                <img
+                  src="../../assets/icons/github.svg"
+                  alt="github"
+                  width="40"
+                />
+              </a>
+              <a href="https://t.me/mutiarahns" target="_blank">
+                <img
+                  src="../../assets/icons/telegram.svg"
+                  alt="telegram"
+                  width="40"
+                />
+              </a>
+              <a href="mailto:nofitasarimutiara@gmail.com">
+                <img
+                  src="../../assets/icons/email.svg"
+                  alt="email"
+                  width="40"
+                />
+              </a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer-container">
+        <div class="footer-content">
+          <p>&copy; 2024 Mutiara Nofitasari. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
